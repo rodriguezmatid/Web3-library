@@ -9,7 +9,7 @@
 
 Script with some commands of the Web3 Library.
 
-Built using Web3 and Python.1
+Built using Web3 and Python.
 
 ## Authors 👦
 
